@@ -1,0 +1,4 @@
+src/Setup/Linux/usr/bin/veracrypt usr/bin
+src/Setup/Linux/usr/share/applications/* usr/share/applications
+src/Setup/Linux/usr/share/pixmaps/* usr/share/pixmaps
+src/Setup/Linux/usr/share/veracrypt/doc/HTML/* usr/share/doc/veracrypt/HTML

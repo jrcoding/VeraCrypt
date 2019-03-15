@@ -1,0 +1,28 @@
+Source: veracrypt
+Section: utils
+Priority: optional
+Maintainer: jrcoding <jr.coding@gmail.com>
+Build-Depends: debhelper (>= 9), 
+ libwxgtk3.0-dev, 
+ libfuse-dev | libfuse3-dev,
+ yasm, pkg-config
+Standards-Version: 4.3.0
+Homepage: https://www.veracrypt.fr/en/Home.html
+Vcs-Git: https://github.com/veracrypt/VeraCrypt.git
+Vcs-Browser: https://github.com/veracrypt/VeraCrypt.git
+
+Package: veracrypt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ libwxgtk3.0-0v5,
+ libfuse2 | libfuse3-3
+Description: Establishing on-the-fly-encrypted volumes
+ VeraCrypt is a software for establishing and maintaining an 
+ on-the-fly-encrypted volume (data storage device).
+ On-the-fly encryption means that data is automatically encrypted 
+ right before it is saved and decrypted right after it is loaded,
+ without any user intervention. No data stored on an encrypted volume 
+ can be read (decrypted) without using the correct password/keyfile(s)
+ or correct encryption keys.
+ Entire file system is encrypted (e.g., file names, folder names, 
+ contents of every file, free space, meta data, etc).

@@ -1,0 +1,7 @@
+veracrypt (1.23~jrc1) unstable; urgency=medium
+
+  [ jrcoding ]
+  * debianize for local use
+  * Non-maintainer upload.
+
+ -- jrcoding <jr.coding@gmail.com>  Thu, 14 Mar 2019 07:53:33 +0100

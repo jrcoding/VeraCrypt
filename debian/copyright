@@ -1,0 +1,282 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: veracrypt
+Source: https://github.com/veracrypt/VeraCrypt
+
+Files: debian/*
+Copyright: 2019 jrcoding <jr.coding@gmail.com>
+License: GPL-3+
+
+Files: *
+Copyright: VeraCrypt Developers
+License: VeraCrypt License
+		VeraCrypt License
+		Software distributed under this license is distributed on an "AS
+		IS" BASIS WITHOUT WARRANTIES OF ANY KIND. THE AUTHORS AND
+		DISTRIBUTORS OF THE SOFTWARE DISCLAIM ANY LIABILITY. ANYONE WHO
+		USES, COPIES, MODIFIES, OR (RE)DISTRIBUTES ANY PART OF THE
+		SOFTWARE IS, BY SUCH ACTION(S), ACCEPTING AND AGREEING TO BE
+		BOUND BY ALL TERMS AND CONDITIONS OF THIS LICENSE. IF YOU DO NOT
+		ACCEPT THEM, DO NOT USE, COPY, MODIFY, NOR (RE)DISTRIBUTE THE
+		SOFTWARE, NOR ANY PART(S) THEREOF.
+.		
+		VeraCrypt is multi-licensed under Apache License 2.0 and
+		the TrueCrypt License version 3.0, a verbatim copy of both
+		licenses can be found below.
+.	
+		This license does not grant you rights to use any
+		contributors' name, logo, or trademarks, including IDRIX,
+		VeraCrypt and all derivative names.
+		For example, the following names are not allowed: VeraCrypt,
+		VeraCrypt+, VeraCrypt Professional, iVeraCrypt, etc. Nor any
+		other names confusingly similar to the name VeraCrypt (e.g.,
+		Vera-Crypt, Vera Crypt, VerKrypt, etc.)
+		____________________________________________________________
+.		
+							Apache License
+							Version 2.0, January 2004
+							https://www.apache.org/licenses/
+							see /usr/share/common-licenses/Apache-2.0
+		____________________________________________________________
+.		
+.		
+		Third-Party Licenses
+.		
+		This Product contains components that were created by third
+		parties and that are governed by third-party licenses, which are
+		contained hereinafter (separated by lines consisting of
+		underscores). Each of the third-party licenses applies only to
+		(portions of) the source code file(s) in which the third-party
+		license is contained or in which it is explicitly referenced,
+		and to compiled or otherwise processed forms of such source
+		code. None of the third-party licenses applies to This Product
+		as a whole, even when it uses terms such as "product",
+		"program", or any other equivalent terms/phrases. This Product
+		as a whole is governed by the TrueCrypt License (see above).
+		Some of the third-party components have been modified by the
+		authors of This Product. Unless otherwise stated, such
+		modifications and additions are governed by the TrueCrypt
+		License (see above). Note: Unless otherwise stated, graphics and
+		files that are not part of the source code are governed by the
+		TrueCrypt License.
+.		
+		____________________________________________________________
+.		
+		License agreement for Encryption for the Masses.
+.		
+		Copyright (C) 1998-2000 Paul Le Roux. All Rights Reserved.
+.		
+		This product can be copied and distributed free of charge,
+		including source code.
+.		
+		You may modify this product and source code, and distribute such
+		modifications, and you may derive new works based on this
+		product, provided that:
+.		
+		1. Any product which is simply derived from this product cannot
+		be called E4M, or Encryption for the Masses.
+.		
+		2. If you use any of the source code in your product, and your
+		product is distributed with source code, you must include this
+		notice with those portions of this source code that you use.
+.		
+		Or,
+.		
+		If your product is distributed in binary form only, you must
+		display on any packaging, and marketing materials which
+		reference your product, a notice which states:
+.		
+		"This product uses components written by Paul Le Roux
+		<pleroux@swprofessionals.com>"
+.		
+		3. If you use any of the source code originally by Eric Young,
+		you must in addition follow his terms and conditions.
+.		
+		4. Nothing requires that you accept this License, as you have
+		not signed it. However, nothing else grants you permission to
+		modify or distribute the product or its derivative works.
+.		
+		These actions are prohibited by law if you do not accept this
+		License.
+.		
+		5. If any of these license terms is found to be to broad in
+		scope, and declared invalid by any court or legal process, you
+		agree that all other terms shall not be so affected, and shall
+		remain valid and enforceable.
+.		
+		6. THIS PROGRAM IS DISTRIBUTED FREE OF CHARGE, THEREFORE THERE
+		IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+		APPLICABLE LAW. UNLESS OTHERWISE STATED THE PROGRAM IS PROVIDED
+		"AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR
+		IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+		OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE
+		ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS
+		WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE
+		COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+.		
+		7. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
+		WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY
+		MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE
+		LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
+		INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+		INABILITY TO USE THE PROGRAM, INCLUDING BUT NOT LIMITED TO LOSS
+		OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+		YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH
+		ANY OTHER PROGRAMS, EVEN IF SUCH HOLDER OR OTHER PARTY HAD
+		PREVIOUSLY BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+		____________________________________________________________
+.		
+		Copyright (c) 1998-2008, Brian Gladman, Worcester, UK.
+		All rights reserved.
+.		
+		LICENSE TERMS
+.		
+		The free distribution and use of this software is allowed (with
+		or without changes) provided that:
+.		
+			1. source code distributions include the above copyright
+						notice, this list of conditions and the following
+						disclaimer;
+.		
+			2. binary distributions include the above copyright notice,
+						this list of conditions and the following disclaimer in
+						their documentation;
+.		
+			3. the name of the copyright holder is not used to endorse
+						products built using this software without specific written
+						permission.
+.		
+		DISCLAIMER
+.		
+		This software is provided 'as is' with no explicit or implied
+		warranties in respect of its properties, including, but not
+		limited to, correctness and/or fitness for purpose.
+		____________________________________________________________
+.		
+		Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
+.		
+				This software is provided 'as-is', without any express or implied
+				warranty.  In no event will the authors be held liable for any damages
+				arising from the use of this software.
+.		
+				Permission is granted to anyone to use this software for any purpose,
+				including commercial applications, and to alter it and redistribute it
+				freely, subject to the following restrictions:
+.		
+				1. The origin of this software must not be misrepresented; you must not
+							claim that you wrote the original software. If you use this software
+							in a product, an acknowledgment in the product documentation would be
+							appreciated but is not required.
+				2. Altered source versions must be plainly marked as such, and must not be
+							misrepresented as being the original software.
+				3. This notice may not be removed or altered from any source distribution.
+.		
+				Jean-loup Gailly        Mark Adler
+				jloup@gzip.org          madler@alumni.caltech.edu
+		____________________________________________________________
+		Copyright (C) 1999-2017 Dieter Baron and Thomas Klausner
+.		
+		The authors can be contacted at <libzip@nih.at>
+.		
+		Redistribution and use in source and binary forms, with or without
+		modification, are permitted provided that the following conditions
+		are met:
+.		
+		1. Redistributions of source code must retain the above copyright
+				notice, this list of conditions and the following disclaimer.
+.		
+		2. Redistributions in binary form must reproduce the above copyright
+				notice, this list of conditions and the following disclaimer in
+				the documentation and/or other materials provided with the
+				distribution.
+.		
+		3. The names of the authors may not be used to endorse or promote
+				products derived from this software without specific prior
+				written permission.
+.		
+		THIS SOFTWARE IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS
+		OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+		WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+		ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+		DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+		DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+		GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+		INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+		IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+		OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+		IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		____________________________________________________________
+		Copyright (c) 2013, Alexey Degtyarev. All rights reserved.
+.		
+		____________________________________________________________
+		Copyright (c) 2016. Disk Cryptography Services for EFI (DCS), Alex Kolotnikov
+		This program and the accompanying materials are licensed and made available 
+		under the terms and conditions of the GNU Lesser General Public License, 
+		version 3.0 (LGPL-3.0).
+.		
+		The full text of the license may be found at https://opensource.org/licenses/LGPL-3.0
+		____________________________________________________________
+		Copyright (c) 1999-2016 Jack Lloyd. 
+.		
+		All rights reserved.
+.	
+		Redistribution and use in source and binary forms, with or without
+		modification, are permitted provided that the following conditions
+		are met:
+.		
+		1. Redistributions of source code must retain the above copyright
+				notice, this list of conditions and the following disclaimer.
+.		
+		2. Redistributions in binary form must reproduce the above copyright
+				notice, this list of conditions and the following disclaimer in
+				the documentation and/or other materials provided with the
+				distribution.
+.		
+		THIS SOFTWARE IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS
+		OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+		WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+		ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+		DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+		DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+		GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+		INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+		IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+		OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+		IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		____________________________________________________________
+		Copyright (c) 2013-2018 Stephan Mueller <smueller@chronox.de>
+.		
+		Redistribution and use in source and binary forms, with or without
+		modification, are permitted provided that the following conditions
+		are met:
+.		
+		1. Redistributions of source code must retain the above copyright
+					notice, and the entire permission notice in its entirety, 
+					including the disclaimer of warranties.
+.		
+		2. Redistributions in binary form must reproduce the above copyright
+					notice, this list of conditions and the following disclaimer in
+					the documentation and/or other materials provided with the
+					distribution.
+.		
+		3. The name of the author may not be used to endorse or promote
+					products derived from this software without specific prior
+					written permission.
+.		
+		ALTERNATIVELY, this product may be distributed under the terms of
+		the GNU General Public License, in which case the provisions of the
+		GPL2 are required INSTEAD OF the above restrictions. (This clause is
+		necessary due to a potential bad interaction between the GPL and the
+		restrictions contained in a BSD-style copyright.)
+.		
+		THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED
+		WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+		MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH
+		ARE HEREBY DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+		ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+		CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+		SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+		BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+		LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+		NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+		SOFTWARE, EVEN IF NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		____________________________________________________________

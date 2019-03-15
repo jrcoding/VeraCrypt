@@ -398,6 +398,9 @@ all clean:
 install:
 	$(MAKE) -C Main -f Main.make NAME=Main install
 
+prepare:
+	$(MAKE) -C Main -f Main.make NAME=Main prepare
+
 package:
 	$(MAKE) -C Main -f Main.make NAME=Main package
 

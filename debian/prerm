@@ -1,0 +1,11 @@
+#!/bin/sh -e
+
+case "$1" in
+        remove|purge)
+            if [ ! -z "`mount | grep veracrypt_aux_mnt`" ]; then 
+                echo "***** VeraCrypt Remove Error: All veracrypt volumes must be dismounted before removing package veracrypt."
+                exit 1
+            fi
+            exit 0
+            ;;
+esac
