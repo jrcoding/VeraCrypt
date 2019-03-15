@@ -1,6 +1,7 @@
 This archive contains the source code of VeraCrypt.
 It is based on original TrueCrypt 7.1a with security enhancements and modifications.
 
+[![Build Status](https://travis-ci.org/jrcoding/VeraCrypt.svg?branch=feature/debianize)](https://travis-ci.org/jrcoding/VeraCrypt)
 
 Important
 =========

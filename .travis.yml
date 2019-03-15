@@ -1,0 +1,13 @@
+language: cpp
+dist: xenial
+sudo: required
+os:
+  - linux
+compiler:
+  - gcc
+cache: apt
+install:
+  - echo $TRAVIS_OS_NAME
+  - if [ "$TRAVIS_OS_NAME" = "linux" ] ; then .travis/setup_linux.sh ; fi
+script:
+  - if [ "$TRAVIS_OS_NAME" = "linux" ] ; then cd src && make -j4 ; fi
